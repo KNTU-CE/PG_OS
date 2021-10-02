@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Algorithm Design
+title: Operating Systems
 email: amirrezasokhankhosh79@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A course of computer engineering major in K. N. Toosi University of Technology.
-baseurl: "PG_AD" # the subpath of your site, e.g. /blog
+baseurl: "PG_OS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  amirrezasokhankhosh
 logo: /apple-touch-icon.png
