@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Algorithm Design Course"
-date:   2021-02-25 11:03:51 +0330
+title:  "Welcome to Operating System Course"
+date:   2021-10-02 20:09:51 +0330
 categories: messages
 ---
 
