@@ -12,7 +12,7 @@ The purpose of this course is to provide an overview of computer operating syste
 
 --- 
 
-## Teacher Assistants
+## Teaching Assistants
 
 - #### Amirreza Sokhankhosh
     [Github account](https://github.com/amirrezasokhankhosh)
