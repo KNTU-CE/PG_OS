@@ -8,4 +8,4 @@ permalink: /projects/
 
 | Chapter            | Project |                           
 |:-------------------|:--------|
-| None | None | None |
+| None | None |
