@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Project 1 Has Been Added"
+date:   2021-10-27 11:43:00 +0330
+categories: messages
+---
+
+Project 1 has been added to its part. Due date : 10 days - November 6, 2021
