@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Homework 1 Has Been Added"
+date:   2021-11-30 22:06:00 +0330
+categories: messages
+---
+
+Homework 1 has been added to its part. Due date : 7 days - December 7, 2021

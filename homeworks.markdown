@@ -8,4 +8,4 @@ permalink: /homeworks/
 
 | Chapter            | Homework | Solution |
 |:-------------------|:---------|:---------|
-| None | None | None |
+| Chapter 5 | [Homework 1](https://kntu-ce.github.io/PG_OS/documents/OS_4001_HW1.pdf) | None |
